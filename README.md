@@ -1,7 +1,7 @@
 # Calculator_App
 Calculator app using flutter
 
-<img src="https://user-images.githubusercontent.com/89830533/170887796-359211a1-9aa8-4f53-9c5f-9f33519f79c6.png" width = 400px height = 800px>
+<img src="https://user-images.githubusercontent.com/89830533/170887796-359211a1-9aa8-4f53-9c5f-9f33519f79c6.png" width = 300px height = 600px>
 
 
 
